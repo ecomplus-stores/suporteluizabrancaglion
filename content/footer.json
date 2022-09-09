@@ -41,9 +41,9 @@
     "bradesco": false,
     "santander": false,
     "mastercard": false,
-    "paypal": true,
+    "paypal": false,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": false
   },
   "credits": "teste"

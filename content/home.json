@@ -7,9 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-10-08T17:34:22.344Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
+          "img": "/img/uploads/banner-oferta-de-smartphone-minimalista-creme-e-preto.png"
         }
       ],
       "full_width": true
@@ -17,30 +17,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/blusas-1-.png",
-          "mobile_img": "/img/uploads/10af786a817019f7c0a4050a829a9bfa.jpg"
-        },
-        {
-          "img": "/img/uploads/blusas-2-.png",
-          "mobile_img": "/img/uploads/rect8589.png"
-        },
-        {
-          "img": "/img/uploads/blusas-3-.png"
-        },
-        {
-          "img": "/img/uploads/blusas-1-.png"
-        }
-      ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -52,12 +28,6 @@
       "title": "NOVIDADES"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-04-07T17:57:19.851Z",
-      "end": "2022-04-08T17:57:19.881Z"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -66,17 +36,6 @@
       "link": "maisvendidos",
       "sort": "sales",
       "title": "MAIS VENDIDOS"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 1000
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }

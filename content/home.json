@@ -36,6 +36,11 @@
       "link": "maisvendidos",
       "sort": "sales",
       "title": "MAIS VENDIDOS"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }

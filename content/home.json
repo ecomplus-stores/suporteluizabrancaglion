@@ -5,14 +5,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/imagem-site-3.jpg"
+          "img": "/img/uploads/banner-oferta-de-smartphone-minimalista-creme-e-preto.png"
         }
-      ],
-      "full_width": true
+      ]
     },
     {
       "type": "info-bar",
@@ -41,10 +41,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-oferta-de-smartphone-minimalista-creme-e-preto.png"
     }
   ]
 }

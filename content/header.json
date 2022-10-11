@@ -7,7 +7,10 @@
   },
   "contacts_stripe": {
     "pages": [
-      {}
+      {
+        "link": "/pages/contato",
+        "title": "contato"
+      }
     ],
     "phone_wpp": false,
     "socials": true
@@ -28,5 +31,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }

@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,

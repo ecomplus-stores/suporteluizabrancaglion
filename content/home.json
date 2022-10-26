@@ -38,11 +38,6 @@
       "title": "MAIS VENDIDOS"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -51,6 +46,11 @@
       "sort": "views",
       "title": "teste :D",
       "link": "/teste2"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }

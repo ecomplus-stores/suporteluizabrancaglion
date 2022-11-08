@@ -63,6 +63,16 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-08T17:35:57.581Z",
+      "end": "2022-11-09T17:35:57.621Z",
+      "offers": [
+        "611d4e31cfbcd97059820711"
+      ],
+      "notes": "VALOR VALIDO ATÉ DIA 9"
     }
   ]
 }

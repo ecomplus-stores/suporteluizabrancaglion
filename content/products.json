@@ -17,7 +17,10 @@
       "max_hours": 24,
       "start": "2022-11-08T17:37:30.816Z",
       "end": "2022-11-09T17:37:30.838Z",
-      "notes": "ate dia 09"
+      "notes": "ate dia 09",
+      "offers": [
+        "611d4d7bcfbcd97059820625"
+      ]
     },
     {
       "type": "related-products",

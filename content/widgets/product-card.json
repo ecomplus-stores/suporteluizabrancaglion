@@ -1,7 +1,7 @@
 {
   "pkg": "@ecomplus/widget-product-card",
   "active": true,
-  "desktopOnly": false,
+  "desktopOnly": true,
   "options": {
     "buyText": "adicionar ao carrinho",
     "buy": "",

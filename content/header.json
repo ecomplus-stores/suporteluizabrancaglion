@@ -13,7 +13,9 @@
   "categories_list": {
     "featured": [
       "/promocoes?promoções",
-      "/mais-vendidos?Mais vendidos"
+      "/mais-vendidos?Mais vendidos",
+      "/xiaomi?Xiaomi",
+      "/dell?Dell"
     ],
     "random": 0,
     "full_width": true

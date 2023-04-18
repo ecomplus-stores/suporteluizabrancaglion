@@ -2,16 +2,11 @@
   "marketing_stripe": {
     "text": "Frete Grátis acima de R$ 100,00",
     "link": "",
-    "background": "#d8136b",
+    "background": "#000000",
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "link": "/pages/contato",
-        "title": "contato"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },

@@ -33,5 +33,6 @@
   "search_input": true,
   "desktop_megamenu": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": false,
+  "centralized_logo": true
 }

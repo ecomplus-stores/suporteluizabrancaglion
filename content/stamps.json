@@ -4,6 +4,9 @@
       "skus": [
         {
           "sku": "FFI9609"
+        },
+        {
+          "sku": "NVQ9593"
         }
       ],
       "img": "/img/uploads/oi.jpg"

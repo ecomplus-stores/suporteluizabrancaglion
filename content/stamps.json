@@ -1,3 +1,12 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "skus": [
+        {
+          "sku": "DTS3897"
+        }
+      ],
+      "img": "/img/uploads/download-removebg-preview.png"
+    }
+  ]
 }

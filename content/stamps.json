@@ -1,16 +1,3 @@
 {
-  "stamps_list": [
-    {
-      "skus": [
-        {
-          "sku": "FFI9609"
-        },
-        {
-          "sku": "NVQ9593"
-        }
-      ],
-      "img": "/img/uploads/download-removebg-preview.png",
-      "id": ""
-    }
-  ]
+  "stamps_list": []
 }

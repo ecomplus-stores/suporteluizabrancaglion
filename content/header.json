@@ -1,15 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "Frete Grátis acima de R$ 100,00",
-    "link": "",
-    "background": "#000000",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": false,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/promocoes?promoções",
@@ -20,9 +9,21 @@
     "random": 0,
     "full_width": true
   },
+  "centralized_logo": true,
+  "marketing_stripe": {
+    "text": "Frete Grátis acima de R$ 100,00",
+    "link": "",
+    "background": "#000000",
+    "color": "#ffffff"
+  },
+  "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/post-instagram-promocao-loja-500-500-px-.png",
   "search_input": true,
   "desktop_megamenu": true,
-  "alphabetical_order_submenu": false,
   "full_width_submenu": false,
-  "centralized_logo": true
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": false,
+    "socials": true
+  }
 }

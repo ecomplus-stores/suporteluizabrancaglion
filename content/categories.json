@@ -9,44 +9,9 @@
       "title": "Blusa"
     },
     {
-      "type": "document-banner",
-      "enabled": false
-    },
-    {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "views"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 0
-    },
-    {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "sales"
-    },
-    {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "sales"
     }
   ]
 }

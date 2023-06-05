@@ -1,5 +1,5 @@
 {
-  "css": ".breadcrumb my-2 my-sm-3 {\ncolor: #ff0000 !important;\n}",
+  "css": ".breadcrumb my-2 my-sm-3 {\nfont color: #ff0000 !important;\n}",
   "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/870576d54762340b9d96ff44f/20e27ca2321836f09f3a447f4.js\");</script>",
   "html_body": "<a href=\"https://wa.me/5531998013997?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n"
 }

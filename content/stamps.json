@@ -1,8 +1,18 @@
 {
   "stamps_list": [
     {
-      "skus": null,
-      "img": "/img/uploads/etiqueta-selo-de-garantia-30-dias-criativo-dourado.png"
+      "skus": [
+        "PME7891"
+      ],
+      "img": "/img/uploads/etiqueta-selo-de-garantia-30-dias-criativo-dourado.png",
+      "id": "selo1"
+    },
+    {
+      "id": "selo2",
+      "img": "/img/uploads/download__4_-removebg-preview-1-.png",
+      "skus": [
+        "PME7891"
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
   "css": ".breadcrumb my-2 my-sm-3 {\nfont color: #ff0000 !important;\n}\n.prices__value:after {\n  content: \"no pix\";\n  font-size: 17px;\n}\nbody {\nfont-family: 'Jost', sans-serif;\nfont-weight: 300;\n}\n#product-actions button.share, {\n  display: none;\n}",
   "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/870576d54762340b9d96ff44f/20e27ca2321836f09f3a447f4.js\");</script>",
-  "html_body": "<script>(function(m, a, i, l, b, z, j, s) {\nif (m[z]) return;\nm[z] = {\nid: b,\nready: 0\n};\nz = a.createElement(i);\nj = a.getElementsByTagName(i)[0];\nz.async = 1;\nz.src = l;\nj.parentNode.insertBefore(z, j);\n})(window, document, 'script', 'https://d3eq1zq78ux3cv.cloudfront.net/static/scripts/integration.min.js', '637519b5a8aebb115f4130ee', 'MailbizIntegration');</script>"
+  "html_body": ""
 }

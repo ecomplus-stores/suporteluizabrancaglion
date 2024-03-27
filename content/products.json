@@ -27,6 +27,18 @@
       "enabled": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/duas-xicaras-comentarios.png"
+        }
+      ]
+    },
+    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },

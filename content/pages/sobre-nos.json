@@ -2,11 +2,14 @@
   "title": "Sobre nós",
   "meta_title": "Connheça a nossa historia | Loja X",
   "meta_description": "Somos a primeira empresa a ...",
-  "body": "**Conheça a história da nossa loja...**\n\n\n\nNa década de 80, quando começamos a oferecer a roupa para a mulher que se inseria no mercado de trabalho, não imaginávamos que um dia seríamos referência na roupa casual feita para nosso clima tropical e nosso jeito colorido de ver a vida.\n\nDurante todos esses anos, aprendemos que a mulher brasileira urbana precisa de roupa que a faz sentir bem, respeita o seu corpo, sua rotina e que moda de qualidade não precisa ser complicada.\n\nConstruÍmos peças e experiências que elevam nossas mulheres e apoiam o caminho de cada uma em busca de sua melhor versão.\n\nPor isso nossa história se mistura com a sua. Estamos acompanhando e apoiando a evolução feminina, sempre atentos as novidades e cuidando de cada detalhe.",
+  "body": "\n\n**Conheça a história da nossa loja...**\n\nNa década de 80, quando começamos a oferecer a roupa para a mulher que se inseria no mercado de trabalho, não imaginávamos que um dia seríamos referência na roupa casual feita para nosso clima tropical e nosso jeito colorido de ver a vida.\n\nDurante todos esses anos, aprendemos que a mulher brasileira urbana precisa de roupa que a faz sentir bem, respeita o seu corpo, sua rotina e que moda de qualidade não precisa ser complicada.\n\nConstruÍmos peças e experiências que elevam nossas mulheres e apoiam o caminho de cada uma em busca de sua melhor versão.\n\nPor isso nossa história se mistura com a sua. Estamos acompanhando e apoiando a evolução feminina, sempre atentos as novidades e cuidando de cada detalhe.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/rect8589.png"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "612eacc71250e82405c5b6e7:categories:SAIA:/saia"
     }
   ]
 }

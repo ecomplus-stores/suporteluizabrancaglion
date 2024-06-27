@@ -1,5 +1,5 @@
 {
   "css": ".breadcrumb my-2 my-sm-3 {\nfont color: #ff0000 !important;\n}\n.prices__value:after {\n  content: \"no pix\";\n  font-size: 17px;\n}\nbody {\nfont-family: 'Jost', sans-serif;\nfont-weight: 300;\n}\n#product-actions button.share, {\n  display: none;\n}",
-  "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/870576d54762340b9d96ff44f/20e27ca2321836f09f3a447f4.js\");</script>",
+  "html_head": "<meta name=\"p:domain_verify\" content=\"87625d01321fd14780cb8566ba19e4f3\"/>",
   "html_body": ""
 }

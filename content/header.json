@@ -5,7 +5,8 @@
       "/mais-vendidos?Mais vendidos",
       "/xiaomi?Xiaomi",
       "/dell?Dell",
-      "/outlet?outlet"
+      "/outlet?outlet",
+      "/promo?promo"
     ],
     "random": 0,
     "full_width": true

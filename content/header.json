@@ -6,7 +6,8 @@
       "/xiaomi?Xiaomi",
       "/dell?Dell",
       "/outlet?outlet",
-      "/promo?promo"
+      "/promo?promo",
+      "/teste?teste"
     ],
     "random": 0,
     "full_width": true

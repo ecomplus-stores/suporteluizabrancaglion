@@ -674,12 +674,6 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -693,6 +687,12 @@
   
     <url>
       <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -734,6 +734,12 @@
     </url>
   
     <url>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/moda-2022-tendencias-para-arrasar-neste-verao</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/tendencias-preview-primavera-verao-passarela</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -741,12 +747,6 @@
   
     <url>
       <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/teste</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/moda-2022-tendencias-para-arrasar-neste-verao</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

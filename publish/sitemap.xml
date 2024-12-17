@@ -746,13 +746,13 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/teste</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/tendencias-preview-primavera-verao-passarela</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/tendencias-preview-primavera-verao-passarela</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/teste</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -782,13 +782,13 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/app/index</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/admin/index</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

@@ -680,13 +680,13 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/faq</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/entrega</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -734,13 +734,13 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/moda-2022-tendencias-para-arrasar-neste-verao</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/lavanda-5-looks-com-a-cor-queridinha-do-momento</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/lavanda-5-looks-com-a-cor-queridinha-do-momento</loc>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/posts/moda-2022-tendencias-para-arrasar-neste-verao</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -764,15 +764,15 @@
     </url>
   
     <url>
-      <loc>https://suporteluizabrancaglion.netlify.app/dell/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://suporteluizabrancaglion.netlify.app/dell/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://suporteluizabrancaglion.netlify.app/dell/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>

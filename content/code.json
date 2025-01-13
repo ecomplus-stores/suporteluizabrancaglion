@@ -1,5 +1,5 @@
 {
-  "css": "page--pages\\/contato .banner a {\n  display: flex;\n  justify-content: center; \n  align-items: center;    \n  min-height: 375px; \n}",
+  "css": ".page--pages\\/contato .banner a {\n  display: flex;\n  justify-content: center; \n  align-items: center;    \n  min-height: 375px; \n}",
   "html_head": "",
   "html_body": ""
 }

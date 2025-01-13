@@ -1,5 +1,5 @@
 {
-  "css": "body[data-cms-collection=\"posts\"] #content{\n  display: flex;\n  justify-content: center\n}",
+  "css": ".page--pages\\/contato .banner a {\n  display: flex;\n  justify-content: center; /* Centraliza horizontalmente */\n  align-items: center;    /* Centraliza verticalmente */\n  min-height: 375px;      /* Mantém a altura mínima definida */\n}",
   "html_head": "",
   "html_body": ""
 }

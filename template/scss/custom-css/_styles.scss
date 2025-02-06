@@ -68,9 +68,9 @@
   content: " no cartão";
 }
 .prices__discount-label {
-  color: #000 !important; /* Mantendo o texto padrão preto */
+  color: #699686 !important; 
 }
 
 .prices__discount-label:has(span.pix) {
-  color: #699686 !important; /* Apenas "via Pix" fica verde */
+  color: #000 !important; 
 }

@@ -67,4 +67,10 @@
 .prices__installments span:after {
   content: " no cartão";
 }
+.prices__discount-label {
+  color: #000 !important; /* Mantendo o texto padrão preto */
+}
 
+.prices__discount-label:has(span.pix) {
+  color: #699686 !important; /* Apenas "via Pix" fica verde */
+}

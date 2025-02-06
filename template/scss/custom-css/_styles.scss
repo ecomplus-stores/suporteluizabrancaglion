@@ -1,2 +1,70 @@
 // Add your custom CSS here.
+/* ==============================
+   PREÇOS E DESCONTOS
+   ============================== */
+.prices {
+  display: flex;
+  flex-direction: column;
+}
+
+.prices__discount-label,
+.prices__discount {
+  color: #699686 !important;
+}
+
+/* Organização dos preços */
+.prices__compare {
+  order: 1;
+  font-size: var(--font-size-lg);
+}
+
+.prices__value + span {
+  order: 2;
+  display: flex;
+  flex-direction: column;
+  font-size: var(--font-size-lg);
+}
+
+.prices__value {
+  order: 3;
+  font-size: var(--font-size-sm);
+  display: none !important; /* Mantendo oculto no mobile e desktop */
+}
+
+.prices__installments {
+  order: 4;
+  font-size: var(--font-size-sm);
+}
+
+/* Ajustes para Mobile */
+@media (max-width: 1199px) {
+  .prices {
+    flex-direction: column;
+  }
+
+  .prices__compare {
+    font-size: var(--font-size-md);
+  }
+
+  .prices__value + span {
+    font-size: var(--font-size-md) !important;
+  }
+}
+
+/* Ajustes para Desktop */
+@media (min-width: 1200px) {
+  .prices__compare {
+    font-size: var(--font-size-lg);
+  }
+
+  .prices__value + span {
+    font-size: var(--font-size-lg) !important;
+  }
+}
+
+/* Exibir texto "no cartão" em parcelamentos */
+.payment-option__installment li:after, 
+.prices__installments span:after {
+  content: " no cartão";
+}
 

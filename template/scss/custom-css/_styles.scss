@@ -48,7 +48,8 @@
   }
 }
 /*cores*/
-.prices__discount-label {
+.prices__discount-label,
+.prices__discount-label:has(small) {
     color: #699686 !important;
 }
 .prices__discount {

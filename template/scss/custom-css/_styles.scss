@@ -48,8 +48,11 @@
   }
 }
 /*cores*/
-.prices__discount-label:has(span.pix) {
-  color: #699686 !important; 
+.prices__discount-label {
+    color: #699686 !important;
+}
+.prices__discount {
+    color: #000 !important;
 }
 /* Exibir texto "no cartão" em parcelamentos */
 .payment-option__installment li:after, 

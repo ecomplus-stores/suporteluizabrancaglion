@@ -47,11 +47,6 @@
     font-size: var(--font-size-lg) !important;
   }
 }
-/*cores*/
-.prices__discount-label:has(small),
-.prices__discount-label small {
-  color: #699686 !important; /* Altere para a cor desejada */
-}
 /* Exibir texto "no cartão" em parcelamentos */
 .payment-option__installment li:after, 
 .prices__installments span:after {

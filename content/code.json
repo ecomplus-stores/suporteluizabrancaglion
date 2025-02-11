@@ -1,5 +1,5 @@
 {
   "css": "/* Centralizar imagem somente na página específica */\n.page--pages\\/contato .banners-grid .banner {\n  display: flex; /* Torna o elemento pai um contêiner flex */\n  justify-content: center; /* Centraliza horizontalmente */\n  align-items: center; /* Centraliza verticalmente */\n}\n\n.page--pages\\/contato .banners-grid .banner picture {\n  max-width: 100%; /* Ajuste opcional para evitar que a imagem ultrapasse o contêiner */\n  height: auto; /* Mantém a proporção da imagem */\n}\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<div id=\"reputation-ra\"><script type=\"text/javascript\" id=\"ra-embed-reputation\" src=\"https://s3.amazonaws.com/raichu-beta/selos/bundle.js\" data-id=\"cW5aWnhENzJrMkpZUjBxNDppc2Vuc2F0\" data-target=\"reputation-ra\" data-model=\"2\"></script></div>"
 }

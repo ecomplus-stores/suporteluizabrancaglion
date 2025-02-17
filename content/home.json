@@ -58,6 +58,11 @@
       "limit": 12,
       "page": 1,
       "collection_id": "612eacbf1250e82405c5b6e0:categories:CALÇA:/calcas"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }

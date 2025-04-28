@@ -53,6 +53,38 @@
   content: " no cartão";
 }
 .brands-carousel {
-  background-color: #e63232; /* Altere para a cor desejada */
+  background-color: #000; /* Fundo preto */
+  color: #fff;            /* Texto branco */
   padding: 20px 0;
+}
+
+/* Garante que os textos internos também fiquem brancos */
+.brands-carousel * {
+  color: #fff;
+}
+/* Estilização das setas */
+.glide__arrow {
+  background-color: #000; /* Fundo preto */
+  color: #fff;            /* Ícone branco */
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  opacity: 0.85;
+  transition: background 0.2s, color 0.2s;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hover nas setas */
+.glide__arrow:hover {
+  background-color: #fff; /* Fundo branco ao passar o mouse */
+  color: #000;            /* Ícone preto ao passar o mouse */
+}
+
+/* Se as setas usam ícones <i>, garanta que eles fiquem brancos */
+.glide__arrow i {
+  color: inherit;
 }

@@ -3,76 +3,12 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-oferta-de-smartphone-minimalista-creme-e-preto.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner1.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blusas-3-.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "NOVIDADES"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6142117a522ab535e60f42c1:collections:Mais vendidos:/mais-vendidos",
-      "link": "maisvendidos",
-      "sort": "sales",
-      "title": "MAIS VENDIDOS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61ae21f70c7c727225b94ba2:collections:Coleção primavera/verão:/teste2",
-      "sort": "views",
-      "title": "teste :D",
-      "link": "/teste2"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "612eacbf1250e82405c5b6e0:categories:CALÇA:/calcas"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "type": "custom-html",
+      "html": "   <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12 col-sm-12 col-md-6 col-lg-6\" style=\"margin-top:15px\">\n                <a href=\"/rodizios-rodas-e-rodinhas\">\n                    <img src=\"/img/uploads/rodinhas-mini-banner-homepage-desicon.jpg\" class=\"card-img-top\"\n                        alt=\"Rodinhas e rodízios para móveis\"></a>\n            </div>\n            <div class=\"col-12 col-sm-12 col-md-6 col-lg-6\" style=\"margin-top:15px\">\n                <a href=\"/prateleiras\">\n                    <img src=\"/img/uploads/suportes-prateleira-mini-banner-homepage-desicon.jpg\" class=\"card-img-top\"\n                        alt=\"Prateleiras e suportes para prateleiras\"></a>\n            </div>\n        </div>\n     \n       <div class=\"row\">\n              <div class=\"col-12 col-sm-12 col-md-6 col-lg-6\" style=\"margin-top:15px\">\n                  <a href=\"/silicones-colas-quimicos\">\n                      <img src=\"/img/uploads/cola-vedante-mini-banner-homepage-desicon.jpg\" class=\"card-img-top\"\n                          alt=\"Colas, tintas e vedantes\"></a>\n              </div>\n              <div class=\"col-12 col-sm-12 col-md-6 col-lg-6\" style=\"margin-top:15px\">\n                  <a href=\"/acessorios-para-moveis\">\n                      <img src=\"/img/uploads/acessorio-moveis-mini-banner-homepage-desicon.jpg\" class=\"card-img-top\"\n                          alt=\"Acessórios para móveis, puxadores e pistões\"></a>\n              </div>\n          </div>\n    </div>"
     }
   ]
 }

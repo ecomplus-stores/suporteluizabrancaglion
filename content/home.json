@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_2-1-.png"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },

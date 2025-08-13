@@ -16,10 +16,11 @@ function loadReviewsWidget() {
 }
 
 function checkAndLoadWidget() {
-  if (window.location.hash.startsWith('#/checkout')) {
+  // Confirma que a rota do hash é exatamente #/checkout/2 ou começa com isso (ex: #/checkout/2/subrotas)
+  if (window.location.hash.startsWith('#/checkout/2')) {
     loadReviewsWidget();
   } else {
-    // Remove se não estiver no checkout
+    // Remove widget se sair dessa rota exata
     const existingWidget = document.querySelector('.sk-ww-google-reviews');
     if (existingWidget) existingWidget.remove();
   }

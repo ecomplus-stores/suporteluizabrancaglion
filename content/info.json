@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos só para SP"
+    "text": "Entregamos só para SP",
+    "link": "abrir.link/THEqJ"
   },
   "installments": {
     "show": true,

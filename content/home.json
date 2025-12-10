@@ -17,7 +17,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
